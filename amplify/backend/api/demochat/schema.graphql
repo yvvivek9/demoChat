@@ -1,0 +1,13 @@
+type Chats @model @auth(rules: [{allow: private}]) {
+  id: ID!
+  name: String
+  message: String
+}
+
+type BudgetEntry @model @auth(rules: [{allow: owner}]) {
+  id: ID!
+  title: String!
+  description: String
+  amount: Float!
+}
+ 

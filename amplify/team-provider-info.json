@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-demochat-dev-02843-authRole",
+      "UnauthRoleArn": "arn:aws:iam::871929584536:role/amplify-demochat-dev-02843-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::871929584536:role/amplify-demochat-dev-02843-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-demochat-dev-02843-deployment",
+      "UnauthRoleName": "amplify-demochat-dev-02843-unauthRole",
+      "StackName": "amplify-demochat-dev-02843",
+      "StackId": "arn:aws:cloudformation:ap-south-1:871929584536:stack/amplify-demochat-dev-02843/194e1ba0-c1fd-11ee-a86c-024c0bdf8021",
+      "AmplifyAppId": "d3d6p85euzk62b"
+    },
+    "categories": {
+      "auth": {
+        "demochat99aa0727": {}
+      },
+      "api": {
+        "demochat": {}
+      }
+    }
+  }
+}
